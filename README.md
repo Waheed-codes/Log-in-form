@@ -33,5 +33,4 @@ The form does not store, validate, or process user data.
  https://waheed-codes.github.io/Log-in-form/
  
 ## Author
-Mohammed Waheeduddin  
-Electronics and Communication Engineering Student
+Mohammed Waheeduddin
